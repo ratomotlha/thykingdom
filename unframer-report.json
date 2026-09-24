@@ -1,0 +1,1601 @@
+{
+  "entryUrl": "https://sustained-strengthening-678290.framer.app/",
+  "origin": "https://sustained-strengthening-678290.framer.app",
+  "assetMode": "hotlink",
+  "routesDiscovered": 3,
+  "pagesExported": 3,
+  "pagesFailed": 0,
+  "pages": [
+    {
+      "route": "/",
+      "filePath": "index.html",
+      "ok": true,
+      "report": {
+        "isFramerSite": true,
+        "platform": "framer",
+        "framerBuild": "6cd4c26",
+        "bytesBefore": 557710,
+        "bytesAfter": 555132,
+        "removals": [
+          {
+            "kind": "tracker",
+            "detail": "Framer analytics (events.framer.com)",
+            "count": 1
+          },
+          {
+            "kind": "phone-home",
+            "detail": "Framer editor bootstrap",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Framer badge container",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge CSS rules",
+            "count": 2
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index fallback pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Generator fingerprint",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge suppressed by rule (runtime kept)",
+            "count": 1
+          }
+        ],
+        "breakpoints": [
+          {
+            "hash": "72rtr7",
+            "mediaQuery": "(min-width: 1200px)"
+          },
+          {
+            "hash": "1h7qss5",
+            "mediaQuery": "(min-width: 810px) and (max-width: 1199.98px)"
+          },
+          {
+            "hash": "hf4qyj",
+            "mediaQuery": "(max-width: 809.98px)"
+          },
+          {
+            "hash": "mdhqkc",
+            "mediaQuery": "(min-width: 1200px)"
+          },
+          {
+            "hash": "8u3837",
+            "mediaQuery": "(min-width: 810px) and (max-width: 1199.98px)"
+          },
+          {
+            "hash": "10d009s",
+            "mediaQuery": "(max-width: 809.98px)"
+          }
+        ],
+        "appearIds": 7,
+        "appearRulesEmitted": 0,
+        "animatedElements": 0,
+        "scrollReveals": 0,
+        "revealGroups": 0,
+        "tickers": 0,
+        "shimBytes": 0,
+        "runtimeModules": 13,
+        "assets": [
+          {
+            "url": "https://framerusercontent.com/images/E8IV2jZtOcJ9n1RxNT0FGxeE.png?width=505&height=255",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/S2varUgZzsP1WTgQPwqwVMLmqs.jpeg?width=1774&height=2048",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/3zxjppwTVegOlaSGug0t6mlTg.jpeg?width=1536&height=2048",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/T6PcLWwCj4aTJjPaRsKj0sJ4kM.jpg?width=640&height=640",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/WPWebDL0lZGa19qk6nDH7r65yA.svg?width=482&height=581",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/QFSXiyRqtdyAEMzcS25Tlp5Bvbo.jpeg?width=1536&height=2048",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/RVz9HzNQpvAzhAvDqgT2u2Ncrew.svg?width=24&height=24",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/aO7IQsa53oyusrOOw5n6HD1TJYg.jpeg?width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/8CGr3plXQCOKsLKz04vzZ06uw.svg?width=20&height=18",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/YK8o1xm0wGhIXu4TDCrBofXdHQo.jpeg?width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/T6fzr4EvMgbmvB9FQUuFFJewqJk.svg?width=24&height=24",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/WSTUvJnjjqkNeybvCDAWYC3iM0.jpeg?width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/ywqaexkUbEgyKvOROgKOZVcE0.svg?width=20&height=20",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/fQKLVndnpPlb5ThLWfnrL1tlGKg.svg?width=40&height=40",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/aTiZAxwf8PO25qqqmkCyJQ4436I.png?width=80&height=80",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/S2varUgZzsP1WTgQPwqwVMLmqs.jpeg?scale-down-to=1024&width=1774&height=2048",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/3zxjppwTVegOlaSGug0t6mlTg.jpeg?scale-down-to=1024&width=1536&height=2048",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/T6PcLWwCj4aTJjPaRsKj0sJ4kM.jpg?scale-down-to=512&width=640&height=640",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/QFSXiyRqtdyAEMzcS25Tlp5Bvbo.jpeg?scale-down-to=1024&width=1536&height=2048",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/aO7IQsa53oyusrOOw5n6HD1TJYg.jpeg?scale-down-to=512&width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/aO7IQsa53oyusrOOw5n6HD1TJYg.jpeg?scale-down-to=1024&width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/YK8o1xm0wGhIXu4TDCrBofXdHQo.jpeg?scale-down-to=512&width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/YK8o1xm0wGhIXu4TDCrBofXdHQo.jpeg?scale-down-to=1024&width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/WSTUvJnjjqkNeybvCDAWYC3iM0.jpeg?scale-down-to=512&width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/WSTUvJnjjqkNeybvCDAWYC3iM0.jpeg?scale-down-to=1024&width=2048&height=1152",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/6RyO7vPBSpbFfyvKsCFw0wdjqc.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Wo57XDOVqyzbVjwP9p78AFZ0Rbc.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.Bu3Gr_p7.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/rolldown-runtime.Dh6celcD.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/react.DwDJOhmk.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/motion.CVmskiWh.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/framer.WMuMN9t6.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/zIA8PY9Zd.Doeue5Yw.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/index.es.BsKH1Su0.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/shared-lib.q1QTbp3X.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/71j3Kw-0Rrtf-ldoSGHDWP8yuFP2ED0avrvOuAyzjuM.BvLmFPGx.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/HSL2SozTo.BLUK1geq.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/rR4HWGXW5.Bt_XuDlc.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/YgAQGujRM.bJntn-xt.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/Itt9wvW2CuQ0n6Y5ePuzd9pg7AIyd2DRTOyicixbAyA.B0Ep2z1J.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Bo5CNzBv77CafbxOtKIkpw9egw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/MzumQQZJQBC6KM1omtmwOtsogtI.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/e3ySEnhUUpItjJUo5buJawUl4Y.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/RkMAGv2iAm3rw7tZzs7FaZf0rM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/8E92vrr3j1gDqzepmeSbD2u0JxA.woff2",
+            "kind": "font"
+          }
+        ],
+        "warnings": [
+          "Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
+          "Kept #svg-templates: referenced by <use> elements."
+        ],
+        "sourceUrl": "https://sustained-strengthening-678290.framer.app/"
+      },
+      "internalLinksRewritten": 16,
+      "assetsLocalized": 0,
+      "formsFound": 0
+    },
+    {
+      "route": "/about",
+      "filePath": "about/index.html",
+      "ok": true,
+      "report": {
+        "isFramerSite": true,
+        "platform": "framer",
+        "framerBuild": "6cd4c26",
+        "bytesBefore": 35857,
+        "bytesAfter": 32780,
+        "removals": [
+          {
+            "kind": "tracker",
+            "detail": "Framer analytics (events.framer.com)",
+            "count": 1
+          },
+          {
+            "kind": "phone-home",
+            "detail": "Framer editor bootstrap",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Framer badge container",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge CSS rules",
+            "count": 2
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index fallback pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Generator fingerprint",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge suppressed by rule (runtime kept)",
+            "count": 1
+          }
+        ],
+        "breakpoints": [],
+        "appearIds": 0,
+        "appearRulesEmitted": 0,
+        "animatedElements": 0,
+        "scrollReveals": 0,
+        "revealGroups": 0,
+        "tickers": 0,
+        "shimBytes": 0,
+        "runtimeModules": 8,
+        "assets": [
+          {
+            "url": "https://framerusercontent.com/images/6RyO7vPBSpbFfyvKsCFw0wdjqc.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/QEmYeYa3dbUlRnkAlLtAhQeqpI.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.Bu3Gr_p7.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/rolldown-runtime.Dh6celcD.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/react.DwDJOhmk.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/motion.CVmskiWh.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/framer.WMuMN9t6.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/zIA8PY9Zd.Doeue5Yw.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/index.es.BsKH1Su0.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/shared-lib.q1QTbp3X.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Bo5CNzBv77CafbxOtKIkpw9egw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/MzumQQZJQBC6KM1omtmwOtsogtI.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/e3ySEnhUUpItjJUo5buJawUl4Y.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/RkMAGv2iAm3rw7tZzs7FaZf0rM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/8E92vrr3j1gDqzepmeSbD2u0JxA.woff2",
+            "kind": "font"
+          }
+        ],
+        "warnings": [
+          "Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free."
+        ],
+        "sourceUrl": "https://sustained-strengthening-678290.framer.app/about"
+      },
+      "internalLinksRewritten": 0,
+      "assetsLocalized": 0,
+      "formsFound": 0
+    },
+    {
+      "route": "/donate",
+      "filePath": "donate/index.html",
+      "ok": true,
+      "report": {
+        "isFramerSite": true,
+        "platform": "framer",
+        "framerBuild": "6cd4c26",
+        "bytesBefore": 35857,
+        "bytesAfter": 32780,
+        "removals": [
+          {
+            "kind": "tracker",
+            "detail": "Framer analytics (events.framer.com)",
+            "count": 1
+          },
+          {
+            "kind": "phone-home",
+            "detail": "Framer editor bootstrap",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Framer badge container",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge CSS rules",
+            "count": 2
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Search index fallback pointer",
+            "count": 1
+          },
+          {
+            "kind": "metadata",
+            "detail": "Generator fingerprint",
+            "count": 1
+          },
+          {
+            "kind": "watermark",
+            "detail": "Badge suppressed by rule (runtime kept)",
+            "count": 1
+          }
+        ],
+        "breakpoints": [],
+        "appearIds": 0,
+        "appearRulesEmitted": 0,
+        "animatedElements": 0,
+        "scrollReveals": 0,
+        "revealGroups": 0,
+        "tickers": 0,
+        "shimBytes": 0,
+        "runtimeModules": 8,
+        "assets": [
+          {
+            "url": "https://framerusercontent.com/images/6RyO7vPBSpbFfyvKsCFw0wdjqc.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/images/QEmYeYa3dbUlRnkAlLtAhQeqpI.png",
+            "kind": "image"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.Bu3Gr_p7.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/rolldown-runtime.Dh6celcD.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/react.DwDJOhmk.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/motion.CVmskiWh.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/framer.WMuMN9t6.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/zIA8PY9Zd.Doeue5Yw.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/index.es.BsKH1Su0.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/shared-lib.q1QTbp3X.mjs",
+            "kind": "script"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ePuN3mCjzajIHnyCdvKBFiZkyY0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/V3j1L0o5vPFKe26Sw4HcpXCfHo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F3kdpd2N0cToWV5huaZjjgM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0iDmxkizU9goZoclqIqsV5rvETU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/r0mv3NegmA0akcQsNFotG32Las.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/iwWTDc49ENF2tCHbqlNARXw6Ug.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ii21jnSJkulBKsHHXKlapi7fv9w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/gazZKZuUEtvr9ULhdA4SprP0AZ0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/pe8RoujoPxuTZhqoNzYqHX2MXA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/teGhWnhH3bCqefKGsIsqFy3hK8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qQHxgTnEk6Czu1yW4xS82HQWFOk.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/MJ3N6lfN4iP5Um8rJGqLYl03tE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/PfdOpgzFf7N2Uye9JX7xRKYTgSc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0SEEmmWc3vovhaai4RlRQSWRrz0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Bo5CNzBv77CafbxOtKIkpw9egw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/I11LrmuBDQZweplJ62KkVsklU5Y.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UjFZPDy3qGuDktQM4q9CxhKfIa8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/8exwVHJy2DhJ4N5prYlVMrEKmQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/UTeedEK21hO5jDxEUldzdScUqpg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/Ig8B8nzy11hzIWEIYnkg91sofjo.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qITWJ2WdG0wrgQPDb8lvnYnTXDg.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qctQFoJqJ9aIbRSIp0AhCQpFxn8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/fXvVh2JeZlehNcEhKHpHH0frSl0.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/7pScaNeb6M7n2HF2jKemDqzCIr4.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/qS4UjQYyATcVV9rODk0Zx9KhkY8.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/VfD2n20yM7v0hrUEBHEyafsmMBY.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/4oIO9fB59bn3cKFWz7piCj28z9s.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/MzumQQZJQBC6KM1omtmwOtsogtI.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/F5Lmfd3fCAu7TwiYbI4DLWw4ks.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/KKQXBq6BF0xEmVbrTnWxh3Yw.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/ugFYeIKZEJXDxI6Kh0YQUX6EK9I.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DgDysCLt0HkIpWMu2uN5tivgQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/2yEyxokC6poTg3Uc5E2ogfVi6WE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/wmHLUqO4QxLaADUScavxvknnBQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/e3ySEnhUUpItjJUo5buJawUl4Y.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/DuYGXsyDXsSnxlZ8qzmcA4x3JiI.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/A5P4nkYCJlLQxGxaS1lzG8PNSc.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/vuPfygr1n1zYxscvWgGI8hRf3LE.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/jplzYzqFHXreyADwk9yrkQlWQ.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/sSIKP2TfVPvfK7YVENPE5H87A.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/gawbeo7iEJSRZ4kcrh6YRrU8o.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/RkMAGv2iAm3rw7tZzs7FaZf0rM.woff2",
+            "kind": "font"
+          },
+          {
+            "url": "https://framerusercontent.com/assets/8E92vrr3j1gDqzepmeSbD2u0JxA.woff2",
+            "kind": "font"
+          }
+        ],
+        "warnings": [
+          "Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free."
+        ],
+        "sourceUrl": "https://sustained-strengthening-678290.framer.app/donate"
+      },
+      "internalLinksRewritten": 0,
+      "assetsLocalized": 0,
+      "formsFound": 0
+    }
+  ],
+  "totalBytesBefore": 629424,
+  "totalBytesAfter": 620692,
+  "totalArtifactsRemoved": 27,
+  "totalAnimationRules": 0,
+  "uniqueAssets": 133,
+  "assetsDownloaded": 0,
+  "assetsFailed": 0,
+  "assetBytes": 0,
+  "formsFound": 0,
+  "warnings": [
+    "/: Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
+    "/: Kept #svg-templates: referenced by <use> elements.",
+    "/about: Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
+    "/donate: Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
+    "No --base-url given, so canonical and og:url tags were removed. Pass your final domain to have them rewritten instead.",
+    "Assets are hotlinked from framerusercontent. Pass --offline for a fully portable package."
+  ]
+}
