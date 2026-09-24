@@ -13,9 +13,9 @@
       "report": {
         "isFramerSite": true,
         "platform": "framer",
-        "framerBuild": "6cd4c26",
-        "bytesBefore": 557710,
-        "bytesAfter": 555132,
+        "framerBuild": "b4b3e20",
+        "bytesBefore": 557777,
+        "bytesAfter": 555199,
         "removals": [
           {
             "kind": "tracker",
@@ -202,7 +202,7 @@
             "kind": "image"
           },
           {
-            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.Bu3Gr_p7.mjs",
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.CyFLAM-w.mjs",
             "kind": "script"
           },
           {
@@ -234,7 +234,7 @@
             "kind": "script"
           },
           {
-            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/71j3Kw-0Rrtf-ldoSGHDWP8yuFP2ED0avrvOuAyzjuM.BvLmFPGx.mjs",
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/Ax7rqu2T4bETAekY4Xu6arEVXGZgvhk8QovGXwFYPFI.D4BOcrQb.mjs",
             "kind": "script"
           },
           {
@@ -250,7 +250,7 @@
             "kind": "script"
           },
           {
-            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/Itt9wvW2CuQ0n6Y5ePuzd9pg7AIyd2DRTOyicixbAyA.B0Ep2z1J.mjs",
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/0bWEzz113sbGTm5OwbIUpcpeS-shit5qbqcI8fLFT_4.CgwCO5Pu.mjs",
             "kind": "script"
           },
           {
@@ -635,7 +635,7 @@
       "report": {
         "isFramerSite": true,
         "platform": "framer",
-        "framerBuild": "6cd4c26",
+        "framerBuild": "b4b3e20",
         "bytesBefore": 35857,
         "bytesAfter": 32780,
         "removals": [
@@ -699,7 +699,7 @@
             "kind": "image"
           },
           {
-            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.Bu3Gr_p7.mjs",
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.CyFLAM-w.mjs",
             "kind": "script"
           },
           {
@@ -1111,7 +1111,7 @@
       "report": {
         "isFramerSite": true,
         "platform": "framer",
-        "framerBuild": "6cd4c26",
+        "framerBuild": "b4b3e20",
         "bytesBefore": 35857,
         "bytesAfter": 32780,
         "removals": [
@@ -1175,7 +1175,7 @@
             "kind": "image"
           },
           {
-            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.Bu3Gr_p7.mjs",
+            "url": "https://framerusercontent.com/sites/5zSGp7aCCMPW5yt4OczUYj/script_main.CyFLAM-w.mjs",
             "kind": "script"
           },
           {
@@ -1581,8 +1581,8 @@
       "formsFound": 0
     }
   ],
-  "totalBytesBefore": 629424,
-  "totalBytesAfter": 620692,
+  "totalBytesBefore": 629491,
+  "totalBytesAfter": 620759,
   "totalArtifactsRemoved": 27,
   "totalAnimationRules": 0,
   "uniqueAssets": 133,
@@ -1591,6 +1591,7 @@
   "assetBytes": 0,
   "formsFound": 0,
   "warnings": [
+    "Route discovery stopped at the 3-page cap; some pages may be missing.",
     "/: Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
     "/: Kept #svg-templates: referenced by <use> elements.",
     "/about: Runtime kept: animations and interactions run exactly as published. The output includes the Framer bundle rather than being framework-free.",
