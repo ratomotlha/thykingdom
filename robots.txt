@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.thykingdomworship.co.za/sitemap.xml
+
+Sitemap: https://thykingdomworshipcenter.co.za/sitemap.xml
